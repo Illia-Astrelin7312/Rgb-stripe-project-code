@@ -1,0 +1,2 @@
+Colors - Red , Green , Blue , Purple , Aqua , Yellow , Orange , Silver.
+Modes - Breath mode , Snake mode
